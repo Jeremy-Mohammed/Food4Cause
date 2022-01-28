@@ -47,8 +47,8 @@ class AboutUs extends StatelessWidget {
             child: Padding(
               padding: EdgeInsets.fromLTRB(10, 0, 10, 0),
               child: Text(
-                  "Food4Cause is an international charitable Organization dedicated to helping anyone living with food insecurity."
-                  " We Support a large network of government associations, affiliate food banks, food agencies, and farmers that work at the community"
+                  "Food4Cause is an international charitable organization dedicated to helping anyone living with food insecurity."
+                  " We support a large network of government associations, affiliate food banks, food agencies, and farmers that work at the community"
                   " level to relieve hunger. Our work is focused on finding wherever there is an excess amount of food and provide that with other resources"
                   " to those in need. We aim to stop food waste and food hunger.",
                   textAlign: TextAlign.center,
@@ -72,8 +72,8 @@ class AboutUs extends StatelessWidget {
           Padding(
             padding: const EdgeInsets.only(left: 10.0, right: 10.0),
             child: Text(
-                "Food4Cause PROVIDES INTERNATIONAL COMMUNICATION TO RELIEVE HUNGER TODAY AND PREVENT HUNGER FOR TOMORROW IN COLLABRATION WITH"
-                " OTHER CHARITIES",
+                "Food4Cause provides international communication to relieve hunger today and prevent hunger tomorrow in collaboration with"
+                " other charities.",
                 textAlign: TextAlign.center,
                 style: TextStyle(fontStyle: FontStyle.italic)),
           ),
@@ -94,7 +94,7 @@ class AboutUs extends StatelessWidget {
           Padding(
             padding: const EdgeInsets.only(left: 10.0, right: 10.0),
             child: Text(
-                "WE ARE AN INNOVATIVE PARTNER CREATED TO PROVIDE NECESSITY WHEREVER THERE IS HARDSHIP",
+                "We are an innovative partner created to provide a necessity wherever there is hardship",
                 textAlign: TextAlign.center,
                 style: TextStyle(fontStyle: FontStyle.italic)),
           ),

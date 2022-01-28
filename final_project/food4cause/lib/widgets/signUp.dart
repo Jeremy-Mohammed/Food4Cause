@@ -299,8 +299,8 @@ class _SignUpState extends State<SignUp> {
                       height: 40,
                       width: 30,
                       child: Image.network(
-                        "https://i1.wp.com/www.androidawareness.com/wp-content/uploads/2018/10/google-icon.png?fit=500%2C500",
-                        fit: BoxFit.cover,
+                        "https://cdn.iconscout.com/icon/free/png-256/google-1772223-1507807.png",
+                        fit: BoxFit.fitWidth,
                       ),
                     ),
                     Text('Google', style: TextStyle(fontSize: 13)),

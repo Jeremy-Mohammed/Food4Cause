@@ -18,41 +18,42 @@ Here you can select one of the options:
  * Volunteer
  * Charity Partner
  * About Us 
- <img src="https://github.com/Jeremy-Mohammed/Food4Cause/blob/main/final_project/food4cause/lib/images/Picture1.jpg" width = "200" height = "480" /><br>
+
+ <img src="https://github.com/Jeremy-Mohammed/Food4Cause/blob/main/final_project/food4cause/lib/images/Picture1.jpg" width = "200" height = "480" /><br><br>
 
 **Donate Page**
 
 Allows users to donate directly to charity.
 
-<img src="https://github.com/Jeremy-Mohammed/Food4Cause/blob/main/final_project/food4cause/lib/images/Picture2.jpg" width = "200" height = "480" /><br>
+<img src="https://github.com/Jeremy-Mohammed/Food4Cause/blob/main/final_project/food4cause/lib/images/Picture2.jpg" width = "200" height = "480" /><br><br>
 
 **Sign-In Page**
 
 Each partner type or volunteer has their own sign-in page.
 
-<img src="https://github.com/Jeremy-Mohammed/Food4Cause/blob/main/final_project/food4cause/lib/images/Picture3.jpg" width = "200" height = "480" /><br>
+<img src="https://github.com/Jeremy-Mohammed/Food4Cause/blob/main/final_project/food4cause/lib/images/Picture3.jpg" width = "200" height = "480" /><br><br>
 
 **Sign-Up Page**
 
-<img src="https://github.com/Jeremy-Mohammed/Food4Cause/blob/main/final_project/food4cause/lib/images/Picture4.jpg" width = "200" height = "480" /><br>
+<img src="https://github.com/Jeremy-Mohammed/Food4Cause/blob/main/final_project/food4cause/lib/images/Picture4.jpg" width = "200" height = "480" /><br><br>
 
 **Menu Example for Partners/Volunteers**
 
 Certain menus have different options based on type.
 
-<img src="https://github.com/Jeremy-Mohammed/Food4Cause/blob/main/final_project/food4cause/lib/images/Picture5.jpg" width = "200" height = "480" /><br>
+<img src="https://github.com/Jeremy-Mohammed/Food4Cause/blob/main/final_project/food4cause/lib/images/Picture5.jpg" width = "200" height = "480" /><br><br>
 
 **Map of Communities in Need**
 
 Shows where communties are that have request aid.
 
-<img src="https://github.com/Jeremy-Mohammed/Food4Cause/blob/main/final_project/food4cause/lib/images/Picture6.jpg" width = "200" height = "480" /><br>
+<img src="https://github.com/Jeremy-Mohammed/Food4Cause/blob/main/final_project/food4cause/lib/images/Picture6.jpg" width = "200" height = "480" /><br><br>
 
 **About Us Page**
 
 General information, mission statement, problem to solve.
 
-<img src="https://github.com/Jeremy-Mohammed/Food4Cause/blob/main/final_project/food4cause/lib/images/Picture7.jpg" width = "200" height = "480" /><br>
+<img src="https://github.com/Jeremy-Mohammed/Food4Cause/blob/main/final_project/food4cause/lib/images/Picture7.jpg" width = "200" height = "480" /><br><br>
 
 
 

@@ -12,13 +12,13 @@ The purpose of this program was to create an application to help with food waste
 
 Here you can select one of the options:
 
-> * Donate
->> - Donate money directly to cause
-> * Food Partner
-> * Community Partner
-> * Volunteer
-> * Charity Partner
-> * About Us
+ * Donate
+   - Donate money directly to cause
+ * Food Partner
+ * Community Partner
+ * Volunteer
+ * Charity Partner
+ * About Us
 
 <img src="https://github.com/Jeremy-Mohammed/Food4Cause/blob/main/final_project/food4cause/lib/images/Picture1.jpg" width = "200" height = "480" /> <br>
 

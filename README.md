@@ -6,14 +6,18 @@ The purpose of this program was to create an application to help with food waste
 
 <br>
 
-----
 ## Example Images with App Functionality
 
 **Main Menu**
 
-Here you can select one of the options
+Here you can select one of the options:
 
-* Volunteer
+> Donate
+> Food Partner
+> Community Partner
+> Volunteer
+> Charity Partner
+> About Us
 
 <img src="https://github.com/Jeremy-Mohammed/Food4Cause/blob/main/final_project/food4cause/lib/images/Picture1.jpg" width = "200" height = "480" /> <br>
 

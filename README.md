@@ -22,29 +22,37 @@ Here you can select one of the options:
 
 **Donate Page**
 
-Allows users to donate directly to charity
+Allows users to donate directly to charity.
+
 <img src="https://github.com/Jeremy-Mohammed/Food4Cause/blob/main/final_project/food4cause/lib/images/Picture2.jpg" width = "250" height = "600" />
 
 **Sign In Page**
+
 <img src="https://github.com/Jeremy-Mohammed/Food4Cause/blob/main/final_project/food4cause/lib/images/Picture3.jpg" width = "250" height = "600" />
 
 **Sign Up Page**
+
 <img src="https://github.com/Jeremy-Mohammed/Food4Cause/blob/main/final_project/food4cause/lib/images/Picture4.jpg" width = "250" height = "600" />
 
 **Menu Example for Partners/Volunteers**
+
+Certain menus have different options based on type.
+
 <img src="https://github.com/Jeremy-Mohammed/Food4Cause/blob/main/final_project/food4cause/lib/images/Picture5.jpg" width = "250" height = "600" />
 
 **Map of Communities in Need**
+
+Shows where communties are that have request aid.
+
 <img src="https://github.com/Jeremy-Mohammed/Food4Cause/blob/main/final_project/food4cause/lib/images/Picture6.jpg" width = "250" height = "600" />
 
 **About Us Page**
+
 <img src="https://github.com/Jeremy-Mohammed/Food4Cause/blob/main/final_project/food4cause/lib/images/Picture7.jpg" width = "250" height = "600" />
 
 
 
 
-
-----
 
 ## Instructions
 

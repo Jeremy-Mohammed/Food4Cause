@@ -4,10 +4,19 @@
 
 The purpose of this program was to create an application to help with food waste and food insecurity. You can sign up as someone who needs food or someone willing to give food. The app helps connect those two groups to solve two problems at once.
 
+<br>
 
-## Example Images
-/
-<img src="https://github.com/Jeremy-Mohammed/Food4Cause/blob/main/final_project/food4cause/lib/images/Picture1.jpg" width = "250" height = "600" />
+----
+## Example Images with App Functionality
+
+**Main Menu**
+
+Here you can select one of the options
+
+* Volunteer
+
+<img src="https://github.com/Jeremy-Mohammed/Food4Cause/blob/main/final_project/food4cause/lib/images/Picture1.jpg" width = "200" height = "480" /> <br>
+
 <img src="https://github.com/Jeremy-Mohammed/Food4Cause/blob/main/final_project/food4cause/lib/images/Picture2.jpg" width = "250" height = "600" />
 <img src="https://github.com/Jeremy-Mohammed/Food4Cause/blob/main/final_project/food4cause/lib/images/Picture3.jpg" width = "250" height = "600" />
 <img src="https://github.com/Jeremy-Mohammed/Food4Cause/blob/main/final_project/food4cause/lib/images/Picture4.jpg" width = "250" height = "600" />
@@ -18,6 +27,8 @@ The purpose of this program was to create an application to help with food waste
 
 
 
+
+----
 
 ## Instructions
 

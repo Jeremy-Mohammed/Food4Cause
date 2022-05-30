@@ -6,7 +6,7 @@ The purpose of this program was to create an application to help with food waste
 
 
 ## Example Images
-
+/
 <img src="https://github.com/Jeremy-Mohammed/Food4Cause/blob/main/final_project/food4cause/lib/images/Picture1.jpg" width = "250" height = "600" />
 <img src="https://github.com/Jeremy-Mohammed/Food4Cause/blob/main/final_project/food4cause/lib/images/Picture2.jpg" width = "250" height = "600" />
 <img src="https://github.com/Jeremy-Mohammed/Food4Cause/blob/main/final_project/food4cause/lib/images/Picture3.jpg" width = "250" height = "600" />

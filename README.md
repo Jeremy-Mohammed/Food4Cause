@@ -61,5 +61,6 @@ General information, mission statement, problem to solve.
 ## Instructions
 
 1. Download the source code [here](https://github.com/Jeremy-Mohammed/Food4Cause).
-2. Open the program in a Flutter applicable IDE with an Android emulator already open.
-3. Run the program. 
+2. Open the program in a Flutter applicable IDE.
+3. Run an android emulator.
+4. Run the program. 

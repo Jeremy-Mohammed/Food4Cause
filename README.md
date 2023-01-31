@@ -3,7 +3,17 @@
 ## Project Information
 
 The purpose of this program was to create an application to help with food waste and food insecurity. You can sign up as someone who needs food or someone willing to give food. The app helps connect those two groups to solve two problems at once.
+<br>
+<br>
+**Tools Used**
+<br>
 
+## Instructions
+
+1. Download the source code [here](https://github.com/Jeremy-Mohammed/Food4Cause).
+2. Open the program in a Flutter applicable IDE.
+3. Run an android emulator.
+4. Run the program. 
 <br>
 
 ## Example Images with App Functionality
@@ -55,12 +65,3 @@ General information, mission statement, problem to solve.
 
 <img src="https://github.com/Jeremy-Mohammed/Food4Cause/blob/main/final_project/food4cause/lib/images/Picture7.jpg" width = "200" height = "480" /><br><br>
 
-
-
-
-## Instructions
-
-1. Download the source code [here](https://github.com/Jeremy-Mohammed/Food4Cause).
-2. Open the program in a Flutter applicable IDE.
-3. Run an android emulator.
-4. Run the program. 

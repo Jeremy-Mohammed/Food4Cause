@@ -3,16 +3,16 @@
 ## Project Information
 
 The purpose of this program was to create an application to help with food waste and food insecurity. You can sign up as someone who needs food or someone willing to give food. The app helps connect those two groups to solve two problems at once.
-<br>
-<br>
+
+
 **Tools Used**
-<br>
+
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-<br>
-<br>
+
+
 
 ## Instructions
 
@@ -20,7 +20,7 @@ The purpose of this program was to create an application to help with food waste
 2. Open the program in a Flutter applicable IDE.
 3. Run an android emulator.
 4. Run the program. 
-<br>
+
 
 ## Example Images with App Functionality
 
